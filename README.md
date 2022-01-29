@@ -5,7 +5,7 @@ Tools/Languages used are Microsoft Excel, SQL, R.
 
 ## View the visualisation [here](https://savvychawla.github.io/TruthDetection).
 
-## Context and Methodolgy
+## Context and Methodology
 The dataset was obtained by parsing statements and their veracity verdict from Politifact.com. Contains 14k affirmations up till late 2020.
 
 Used the binary version of the data to filter out top 12 (by volume) statements from media/person using SQL/BigQuery.
@@ -18,11 +18,11 @@ Using RStudio:
 
 • Passed the matrix into a variable.
 
-• Labled the group name and passed into a variable.
+• Lablled the group name and passed into a variable.
 
 • Set the dimension names.
 
-• Created the visualisation with the chordiag library and customised the chart according to requirememnt.
+• Created the visualisation with the chordiag library and customised the chart according to requirement.
 
 • Used the htmlwidgets library to export the visualisation into html file. 
 
