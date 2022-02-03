@@ -18,7 +18,7 @@ Using RStudio:
 
 • Passed the matrix into a variable.
 
-• Lablled the group name and passed into a variable.
+• Labelled the group name and passed into a variable.
 
 • Set the dimension names.
 
